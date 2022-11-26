@@ -1,0 +1,12 @@
+{
+  "name": "meta-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addFive.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

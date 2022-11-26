@@ -1,0 +1,1 @@
+console.log("Discount is: $" + discount);
